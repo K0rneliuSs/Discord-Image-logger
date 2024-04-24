@@ -5,7 +5,7 @@ For dev this code, You need to host it. Personely I use vercel for this version.
 You need to structure your repository with a folder that you name 'api' a '.gitkeep'  a 'requiremets.txt' and the file.
 Rember that you need to change the webhook content
 
-#Tuto to use this code
+# Tuto to use this code
 
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
