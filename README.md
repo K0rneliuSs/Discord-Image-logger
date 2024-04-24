@@ -7,3 +7,6 @@ Rember that you need to change the webhook content
 
 #Tuto to use this code
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+
+## EDUCAL PURPOSE ONLY !!  PLEASE DON'T USE THIS CODE FOR ILLEGALE PURPOSE
