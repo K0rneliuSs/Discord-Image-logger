@@ -11,5 +11,5 @@ After you host it you're gonna have a link that      `(random)vercel.app/api/{na
 # https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
-### EDUCAL PURPOSE ONLY !!  PLEASE DON'T USE THIS CODE FOR ILLEGALE PURPOSE
+### EDUCAL PURPOSE ONLY !!  PLEASE DON'T USE THIS CODE FOR MALECIUS THING
 ![Capture d'écran 2024-05-20 140034](https://github.com/K0rneliuSs/Discord-Image-logger/assets/167611949/e1411460-efbe-4fa3-afc4-ff85c4733e64)
