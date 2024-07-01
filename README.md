@@ -4,7 +4,8 @@
 For dev this code, You need to host it. Personely I use vercel for this version.
 You need to structure your repository with a folder that you name 'api' a '.gitkeep'  a 'requiremets.txt' and the file.
 Rember that you need to change the webhook content
-After you host it you're gonna have a link that      `(random)vercel.app/api/{name-of-your-file.py}`
+After you host it you're gonna have a link that      `(random)vercel.app/`
+You just have to add `api/{name-of-your-file.py}` at the end of url. You  have now that  `(random)vercel.app/api/{name-of-your-file.py}`
 
 # Tuto to use this code
 
