@@ -1,7 +1,7 @@
 ## Discord-Image-logger-
 ## A simple Image logger that steal ip and info from it
 
-For dev this code, You need to host it. Personely I use vercel for this version.
+For dev this code, You need to host it. Personely I use vercel (https://vercel.com/) for this version.
 You need to structure your repository with a folder that you name 'api' where there are  files '.gitkeep'  a 'requiremets.txt' and the file.py.
 Rember that you need to change the webhook content and file.py's settings.
 
